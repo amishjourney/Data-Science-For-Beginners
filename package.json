@@ -1,7 +1,7 @@
 {
 	"name": "ds-for-beginners",
 	"version": "1.0.0",
-	"description": "Data Science for Beginners - A Curriculum",
+	"description": "Data  Science for Beginners - A Curriculum",
 	"main": "index.js",
 	"scripts": {
 		"convert": "node_modules/.bin/docsify-to-pdf"
