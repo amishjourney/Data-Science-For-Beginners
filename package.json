@@ -4,7 +4,7 @@
 	"description": "Data  Science for Beginners - A Curriculum",
 	"main": "index.js",
 	"scripts": {
-		"convert": "node_modules/.bin/docsify-to-pdf"
+		"convert": " node_modules/.bin/docsify-to-pdf"
 	},
 	"repository": {
 		"type": "git",
